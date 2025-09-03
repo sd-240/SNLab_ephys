@@ -6,7 +6,7 @@ from pathlib import Path
 import napari
 import numpy as np
 import pandas as pd
-from napari_video.napari_video import VideoReaderNP
+from napari_video.napari_video import VideoReaderNP 
 
 
 # Goes through all the layers of the video, extracting the coordinates,
